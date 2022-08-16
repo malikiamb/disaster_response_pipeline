@@ -58,3 +58,19 @@ https://052b8c06e71c40e99045311a7e35ff96-3000.udacity-student-workspaces.com/
 ## Additional Visuals
 <img width="917" alt="Visual A " src="https://user-images.githubusercontent.com/75813316/184790548-e3fbaf06-5717-4054-8d5f-6620d92a2a3b.png">
 
+# Improve classification model
+
+https://neptune.ai/blog/improving-machine-learning-deep-learning-models
+
+## Resources
+
+Classifier Models
+
+https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529#:~:text=There%20are%20a%20number%20of,%2Drest%2C%20and%20Naive%20Bayes.
+
+What is natural language processing?
+
+https://en.wikipedia.org/wiki/Natural_language_processing
+
+
+
