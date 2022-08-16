@@ -45,11 +45,21 @@ messages.csv and categories.csv
 |- classifier.pkl  # saved model 
 
 - README.md
+
+
 ## Notice classification results of search for relief aid in Barbados
 
 ### Webpage Visual
 <img width="694" alt="Message Classification Example" src="https://user-images.githubusercontent.com/75813316/184791030-1d4e19cc-11e1-427e-b1f2-0fdb2a02906b.png">
 
+## Execution:
+You can run the following commands in the project's directory to set up the database, train model and save the model.
+
+To run ETL pipeline to clean data and store the processed data in the database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/disaster_response_db.db
+
+To run the ML pipeline that loads data from DB, trains classifier and saves the classifier as a pickle file python models/train_classifier.py data/disaster_response_db.db models/classifier.pkl
+
+Run the following command in the app's directory to run your web app. python run.py
 
 ## HTML App Here
 
