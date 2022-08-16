@@ -49,3 +49,7 @@ messages.csv and categories.csv
 ## HTML App Here
 
 https://052b8c06e71c40e99045311a7e35ff96-3000.udacity-student-workspaces.com/
+
+## See visual below of Web Page 
+<img width="917" alt="Visual A " src="https://user-images.githubusercontent.com/75813316/184790548-e3fbaf06-5717-4054-8d5f-6620d92a2a3b.png">
+
