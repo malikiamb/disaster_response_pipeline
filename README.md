@@ -45,11 +45,16 @@ messages.csv and categories.csv
 |- classifier.pkl  # saved model 
 
 - README.md
+## Notice classification results of search for relief aid in Barbados
+
+### Webpage Visual
+<img width="694" alt="Message Classification Example" src="https://user-images.githubusercontent.com/75813316/184791030-1d4e19cc-11e1-427e-b1f2-0fdb2a02906b.png">
+
 
 ## HTML App Here
 
 https://052b8c06e71c40e99045311a7e35ff96-3000.udacity-student-workspaces.com/
 
-## See visual below of Web Page 
+## Additional Visuals
 <img width="917" alt="Visual A " src="https://user-images.githubusercontent.com/75813316/184790548-e3fbaf06-5717-4054-8d5f-6620d92a2a3b.png">
 
