@@ -1,4 +1,4 @@
-# Disaster_Response_Pipeline
+# Disaster Response Pipeline Udacity
 
 # We will build a classifier model that evaluates and classifies results of messages sent during a disaster
 
