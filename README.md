@@ -59,7 +59,7 @@ To run ETL pipeline to clean data and store the processed data in the database p
 
 To run the ML pipeline that loads data from DB, trains classifier and saves the classifier as a pickle file python models/train_classifier.py data/disaster_response_db.db models/classifier.pkl
 
-Run the following command in the app's directory to run your web app. python run.py
+Run the following command in the app's directory to run your web app. ## python run.py
 
 ## HTML App Here
 
@@ -68,7 +68,8 @@ https://052b8c06e71c40e99045311a7e35ff96-3000.udacity-student-workspaces.com/
 ## Additional Visuals
 <img width="917" alt="Visual A " src="https://user-images.githubusercontent.com/75813316/184790548-e3fbaf06-5717-4054-8d5f-6620d92a2a3b.png">
 
-# Improve classification model
+# Improve classification model for future reference
+#### Steps to improve model beyond current status for better outcome
 
 https://neptune.ai/blog/improving-machine-learning-deep-learning-models
 
